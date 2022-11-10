@@ -1,0 +1,11 @@
+﻿  -- Install configuration: "Release"
+  -- Installing: D:/EKA/YOLO COK/darknet-master/darknet.lib
+  -- Installing: D:/EKA/YOLO COK/darknet-master/darknet.dll
+  -- Installing: D:/EKA/YOLO COK/darknet-master/include/darknet/darknet.h
+  -- Installing: D:/EKA/YOLO COK/darknet-master/include/darknet/yolo_v2_class.hpp
+  -- Installing: D:/EKA/YOLO COK/darknet-master/uselib.exe
+  -- Installing: D:/EKA/YOLO COK/darknet-master/darknet.exe
+  -- Installing: D:/EKA/YOLO COK/darknet-master/share/darknet/DarknetTargets.cmake
+  -- Installing: D:/EKA/YOLO COK/darknet-master/share/darknet/DarknetTargets-release.cmake
+  -- Installing: D:/EKA/YOLO COK/darknet-master/share/darknet/DarknetConfig.cmake
+  -- Installing: D:/EKA/YOLO COK/darknet-master/share/darknet/DarknetConfigVersion.cmake

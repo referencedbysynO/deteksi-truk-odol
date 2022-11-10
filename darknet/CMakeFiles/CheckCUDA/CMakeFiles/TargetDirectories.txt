@@ -1,0 +1,2 @@
+D:/EKA/YOLO COK/darknet-master/CMakeFiles/CheckCUDA/CMakeFiles/ALL_BUILD.dir
+D:/EKA/YOLO COK/darknet-master/CMakeFiles/CheckCUDA/CMakeFiles/ZERO_CHECK.dir

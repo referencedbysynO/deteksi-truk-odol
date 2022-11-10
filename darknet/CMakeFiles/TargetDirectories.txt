@@ -1,0 +1,6 @@
+D:/EKA/YOLO COK/darknet-master/CMakeFiles/dark.dir
+D:/EKA/YOLO COK/darknet-master/CMakeFiles/uselib.dir
+D:/EKA/YOLO COK/darknet-master/CMakeFiles/darknet.dir
+D:/EKA/YOLO COK/darknet-master/CMakeFiles/INSTALL.dir
+D:/EKA/YOLO COK/darknet-master/CMakeFiles/ALL_BUILD.dir
+D:/EKA/YOLO COK/darknet-master/CMakeFiles/ZERO_CHECK.dir
